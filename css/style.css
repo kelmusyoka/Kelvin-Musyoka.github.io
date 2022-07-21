@@ -585,7 +585,7 @@ h6 { font-size: 16px; }
 	position: absolute;
 	top: 70px;
 	bottom: 70px;
-	width: 800px;
+	width: 1000px;
 	left: 50%;
 	border-radius: 10px;
 	transform: translateX(-50%);
